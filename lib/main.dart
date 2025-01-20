@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Loaner24',
-      home: PhoneAuthPage(),
+      home: SignInPage(),
       routes: {
         '/signin': (context) => SignInPage(),
         '/home': (context) => HomePage(),
