@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59724929648",
+    "project_id": "loaner2024-db88e",
+    "storage_bucket": "loaner2024-db88e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59724929648:android:3fbacdf1e76c23a47b32b5",
+        "android_client_info": {
+          "package_name": "com.example.loaner24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CdXSmILkV0F-aXHzCnUr_eVbU1X7qP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
